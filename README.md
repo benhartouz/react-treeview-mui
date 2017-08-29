@@ -14,7 +14,7 @@ $ npm install --save react-treeview-mui
 ```
 
 ```javascript
-import import React, {Component, PropTypes} from 'react'
+import  React, {Component, PropTypes} from 'react'
 // With material-ui
 // be sure to have <MuiTreeList /> inside <MuiThemeProvider />
 import {MuiTreeList} from 'react-treeview-mui'
